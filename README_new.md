@@ -76,7 +76,7 @@ Small screen:
 
 #### <a id="visualization-pages"></a>Visualization pages
 
-You'll build four of these, one for each visualization. Here's an example of one visualization page on two different screen sizes:
+Four visualizations were built. Here's an example of one visualization page on two different screen sizes:
 
 Large screen:
 
